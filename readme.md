@@ -1,3 +1,7 @@
+This is a simple script to concatenate 
+individual book chapters (as text files)
+into a single (novel) file.
+
 To use label your chapters alphabetically 
 as text files in a single folderlike this:
 
