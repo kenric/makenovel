@@ -12,7 +12,7 @@ Chapter2.0_My-Second-Chapter.txt
 Chapter3.0_My-Second-Chapter.txt
 ...
 
-(Make sure they start with the string 'Chapter', case doesn't matter)
+(Make sure they start with the string 'Chapter')
 
 Then from the command line:
 
