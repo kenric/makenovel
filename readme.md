@@ -6,7 +6,10 @@ To use label your chapters alphabetically
 as text files in a single folderlike this:
 
 Chapter1.0_My-First-Chapter.txt
+
 Chapter2.0_My-Second-Chapter.txt
+
+Chapter3.0_My-Second-Chapter.txt
 ...
 
 (Make sure they start with the string 'Chapter')
