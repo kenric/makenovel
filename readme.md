@@ -15,4 +15,7 @@ Chapter3.0_My-Second-Chapter.txt
 (Make sure they start with the string 'Chapter', case doesn't matter)
 
 Then from the command line:
+
 python makenovel.py path_to_chapters_dir 'Novel Title'	
+
+Your chapters will all be happy together in 'Novel Title'
