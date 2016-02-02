@@ -6,7 +6,6 @@
 # Then from the command line:
 # python makenovel.py path_to_chapters_dir 'Novel Title'	
 
-# Import the os module, for the os.walk function
 import os
 import sys
 import collections
