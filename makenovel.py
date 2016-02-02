@@ -24,7 +24,7 @@ def chaptersToNovel(rootDir):
 	#list of chapters
 	chapters = []
 	
-	#find all files in dir whose names start with 'chapter'
+	#find all files in dir whose names start with 'Chapter'
 	for dirName, subdirList, fileList in os.walk(rootDir):
 	    for fname in fileList:
 	        if(fname.find('Chapter')==0):
